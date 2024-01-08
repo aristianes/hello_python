@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45553335-f32f-4378-97d2-f6179ea32415" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/soma.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/condicionalOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/condicionalTwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/exerThree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/exerTwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/flootAltura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/loopWords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/prints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculos/quadrado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cursoPy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cursoPy/exerOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cursoPy/inputInt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cursoPy/inputStr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculos/exerThree.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculos/exerThree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -54,29 +37,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.condicional.executor&quot;: &quot;Run&quot;,
-    &quot;Python.condicionalTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exerOne.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exerTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.flootAltura.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inputInt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loopWords.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.primeiroDia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.printManyThings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prints.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quadrado.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.app.executor": "Run",
+    "Python.condicional.executor": "Run",
+    "Python.condicionalTwo.executor": "Run",
+    "Python.exerOne.executor": "Run",
+    "Python.exerThree.executor": "Run",
+    "Python.exerTwo.executor": "Run",
+    "Python.flootAltura.executor": "Run",
+    "Python.inputInt.executor": "Run",
+    "Python.loop.executor": "Run",
+    "Python.loopWords.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.primeiroDia.executor": "Run",
+    "Python.printManyThings.executor": "Run",
+    "Python.prints.executor": "Run",
+    "Python.quadrado.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "20240108-part1",
+    "last_opened_file_path": "C:/GitPython/hello_python"
   }
-}</component>
-  <component name="RunManager" selected="Python.exerTwo">
+}]]></component>
+  <component name="RunManager" selected="Python.exerThree">
     <configuration name="exerOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="soma" />
       <option name="ENV_FILES" value="" />
@@ -99,6 +84,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exerThree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="soma" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/calculos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculos/exerThree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exerTwo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="soma" />
       <option name="ENV_FILES" value="" />
@@ -113,28 +120,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculos/exerTwo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="flootAltura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="soma" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/calculos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculos/flootAltura.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exerThree" />
         <item itemvalue="Python.exerTwo" />
         <item itemvalue="Python.exerOne" />
         <item itemvalue="Python.inputInt" />
         <item itemvalue="Python.inputStr" />
-        <item itemvalue="Python.flootAltura" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +221,17 @@
       <updated>1702836972689</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
